@@ -14,6 +14,7 @@ Foi desenvolvido uma aplicação simulando como poderia ser o front-end de um le
 - React.js
 - Bootstrap
 - ESLINT
+- FireBase
 
 ## Rodando o projeto localmente
 
